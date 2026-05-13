@@ -155,3 +155,45 @@ Interactive Dashboard (Streamlit)
 
 ```markdown
 ![Dashboard](dashboard.png)
+CSV export
+- 🔁 Scenario simulation
+
+---
+
+## 📸 Dashboard Preview
+
+> *(Add your screenshots here)*
+
+```markdown
+![Dashboard](dashboard.png)
+🧠 Key Insights (From Model)
+📉 Month-to-month contracts → highest churn risk
+💰 High monthly charges → increased churn probability
+⏳ Low tenure → critical churn indicator
+🛠 Lack of support services → higher churn
+🛠 Tech Stack
+Category	Tools
+Data Processing	Pandas, NumPy
+Machine Learning	Scikit-learn
+Visualization	Plotly
+Deployment	Streamlit
+Model Storage	Joblib
+📂 Project Structure
+├── data/
+├── model/
+│   └── churn_model.pkl
+├── app.py
+├── README.md
+🚀 How to Run
+pip install -r requirements.txt
+streamlit run app.py
+🔥 Future Improvements
+🔥 Model explainability (SHAP)
+🔥 API deployment (FastAPI)
+🔥 Real database integration
+🔥 User authentication
+🔥 Cloud deployment
+👤 Author
+
+Ibrahim Shedoh
+Data Scientist | ML Engineer | AI Engineer
