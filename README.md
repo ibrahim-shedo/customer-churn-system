@@ -158,8 +158,6 @@ Interactive Dashboard (Streamlit)
 
 
 ---
-
-💰 Hi
 👤 Author
 
 Ibrahim Shedoh
