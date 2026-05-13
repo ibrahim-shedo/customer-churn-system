@@ -72,3 +72,20 @@ The system automatically generates:
 ---
 
 ## 🏗 System Architecture
+   Customer Data
+          │
+          ▼
+
+Data Processing & Feature Engineering
+│
+▼
+Machine Learning Model
+│
+▼
+Prediction + Risk Scoring Engine
+│
+▼
+Business Logic (CLV, Risk, Strategy)
+│
+▼
+Interactive Dashboard (Streamlit)
