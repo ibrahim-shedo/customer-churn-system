@@ -89,3 +89,69 @@ Business Logic (CLV, Risk, Strategy)
 │
 ▼
 Interactive Dashboard (Streamlit)
+
+---
+
+## 🧩 Platform Modules
+
+### 🎯 1. Single Prediction Engine
+- Real-time customer churn prediction
+- Risk score + probability
+- Financial impact analysis
+- Personalized recommendations
+
+---
+
+### 📊 2. Batch Analysis
+- Upload CSV of customers
+- Predict churn at scale
+- Risk segmentation
+- Export results
+
+---
+
+### 📈 3. Scenario Planner
+- Simulate retention strategies
+- Test:
+  - Contract changes
+  - Discounts
+- Measure risk reduction
+
+---
+
+### 📉 4. Analytics Dashboard
+- Risk trends over time
+- Customer segmentation
+- KPI tracking:
+  - Avg risk
+  - High-risk customers
+  - Total value at risk
+
+---
+
+### 📋 5. Portfolio Management
+- Filter high-risk customers
+- Monitor churn distribution
+- Export actionable lists
+
+---
+
+## 📊 Key Features
+
+- 🎨 Enterprise UI (custom CSS, responsive layout)
+- 📊 Interactive charts (Plotly)
+- ⚡ Real-time predictions
+- 🧠 Risk scoring system
+- 💰 CLV calculation
+- 📈 Trend analytics
+- 📥 CSV export
+- 🔁 Scenario simulation
+
+---
+
+## 📸 Dashboard Preview
+
+> *(Add your screenshots here)*
+
+```markdown
+![Dashboard](dashboard.png)
