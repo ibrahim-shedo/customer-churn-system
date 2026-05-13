@@ -154,9 +154,9 @@ Interactive Dashboard (Streamlit)
 > *(Add your screenshots here)*
 
 ```markdown
-![Dashboard](dashboard.png)
-CSV export
-- 🔁 Scenario simulation
+<img width="1392" height="927" alt="Screenshot 2026-05-13 at 10 48 29" src="https://github.com/user-attachments/assets/085478d4-c906-48c2-a51d-b875451873fd" />
+<img width="1375" height="758" alt="Screenshot 2026-05-13 at 10 48 43" src="https://github.com/user-attachments/assets/9a0edec5-882d-4633-a0bc-69b0ab31f40d" />
+<img width="1361" height="922" alt="Screenshot 2026-05-13 at 10 48 57" src="https://github.com/user-attachments/assets/12c78a3c-64e6-4bfd-a587-95e5ec5387f2" />
 
 ---
 
