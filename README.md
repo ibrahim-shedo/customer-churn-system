@@ -19,7 +19,7 @@ Unlike basic ML projects, this system provides:
 - 📋 Portfolio-level churn monitoring  
 - 💡 AI-driven retention recommendations  
 
-👉 This mimics how real companies manage customer retention using data.
+
 
 ---
 ## 📸 Dashboard Preview
